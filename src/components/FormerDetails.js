@@ -37,15 +37,15 @@ export const FormerDetails = () => {
 
             <View style = {{marginVertical: 10}}>
                 <View style = {{flexDirection: 'row', marginVertical: 5}}>
-                    <Text style = {{width: '40%'}}>Product Name</Text>
-                    <Text style = {{color:'gray'}}>Papaya</Text>
+                    <Text style = {{width: '40%'}}>Center map</Text>
+                    <Text style = {{color:'gray'}}>Lal kaun</Text>
                 </View>
 
                 <LightRule />
 
                 <View style = {{flexDirection: 'row', marginVertical: 5}}>
-                    <Text style = {{width: '40%'}}>Product Variety</Text>
-                    <Text style = {{color:'gray'}}>Pusa Majesty</Text>
+                    <Text style = {{width: '40%'}}>FSSAI licence</Text>
+                    <Text style = {{color:'gray'}}>808080808080</Text>
                 </View>
             </View>
 
